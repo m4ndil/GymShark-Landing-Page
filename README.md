@@ -11,7 +11,7 @@ Reps & Sets
 - JavaScript
 
 ## Website Structure and Features:
-- The website should properly utilize HTML tags such as title, meta, img, table, div, form, and implement appropriate tag nesting.
+- The website has properly utilize HTML tags such as title, meta, img, table, div, form, and implement appropriate tag nesting.
 - Usage of attributes and comments should be well-defined.
 - Code should be properly formatted and structured.
 - Internal, inline, and external CSS should be used appropriately.
